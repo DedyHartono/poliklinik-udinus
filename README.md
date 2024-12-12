@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# poliklinik-udinus
-=======
-# Login admin
-
-username    : admin
-password    : adminpoliklinik
+`Import db_poliklinik`
+# Login Admin
+- **Username**: `admin`
+- **Password**: `adminpoliklinik`
 
 # Login dokter
-password = username (Jadi password dimasukan adalah Nama Dokter)
-
->>>>>>> b2afd49 (data update)
+password = username `Password yang dimasukan adalah Nama Dokter`
