@@ -7,7 +7,7 @@
 3. Buka file di Visual Studio Code (VSCode) untuk melihat kode.
 4. Buka XAMPP dan nyalakan Apache serta MySQL.
 5. Pergi ke phpMyAdmin `http://localhost/phpmyadmin/` dan import file SQL (db_poliklinik) dari repository Github.
-6. Buka browser dan akses `http://localhost/poliklinik-main/`.
+6. Buka browser dan akses `http://localhost/poliklinik-udinus/`.
 
 ## Informasi Login
 
