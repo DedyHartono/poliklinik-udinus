@@ -14,5 +14,5 @@
 | Username    | Password          | Role       |
 |-------------|-------------------|------------|
 | admin       | adminpoliklinik   | Admin      |
-| Dr. Hartono | Dr. Hartono       | Dokter     |`/tambah dokter baru pada admin`
+| Dr. Hartono | Dr.Hartono`tanpaspasi`       | Dokter     |`/tambah dokter baru pada admin`
 | dedy        | 12345             | Pasien     | `/registrasi`
