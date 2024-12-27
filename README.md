@@ -14,5 +14,5 @@
 | Username    | Password          | Role       |
 |-------------|-------------------|------------|
 | admin       | adminpoliklinik   | Admin      |
-| Dr. Yuni    | Dr.Yuni           | Dokter     |`/tambah dokter baru pada admin`
+| Dr. Yuni    | Dr. Yuni          | Dokter     |`/tambah dokter baru pada admin`
 | dedy        | 12345             | Pasien     | `/registrasi`
