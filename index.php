@@ -4,7 +4,7 @@
 <style>
 .client_section {
     padding: 50px 0;
-    background-color: #f7f7f7;
+    background-color: rgb(188, 190, 191);
     color: #333;
 }
 

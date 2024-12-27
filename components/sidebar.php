@@ -104,6 +104,12 @@
                                 <p>Riwayat Pasien <span class="right badge badge-success">Dokter</span></p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="editDokter.php" class="nav-link">
+                                <i class="fas fa-user nav-icon"></i>
+                                <p>Edit Profil <span class="right badge badge-success">Dokter</span></p>
+                            </a>
+                        </li>
                     </ul>
                     <?php } else if($_SESSION['akses'] == "pasien"){?>
                     <ul class="nav nav-treeview">
